@@ -1,0 +1,2 @@
+Ablauf Textfile b.txt:
+- Erste Änderung im Textfile b.txt, 16.09.2021 um 08:38 Uhr.
