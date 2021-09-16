@@ -1,0 +1,3 @@
+Ablauf seit Branch "secondbranch":
+- Erste Änderung im Textfile c3.txt, 16.09.2021 um 08:57 Uhr.
+- Datei c3.txt umbenannt in c2.txt, 16.09.2021 um 08:58 Uhr.
