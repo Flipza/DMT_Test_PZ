@@ -1,9 +1,3 @@
 Ablauf:
 - Erste Änderung im Textfile a.txt, 16.09.2021 um 08:37 Uhr.
 - Zweite Änderung im Textfile a.txt, 16.09.2021 um 08:48 Uhr.
-
-Ablauf seit Branch "secondbranch":
-- Erste Änderung im Textfile a.txt, 16.09.2021 um 08:55 Uhr.
-
-Ablauf seit Branch "thirdbranch":
-- Erste Änderung im Textfile a.txt, 16.09.2021 um 09:06 Uhr.
