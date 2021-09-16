@@ -1,0 +1,2 @@
+Ablauf:
+- Erste Änderung im Textfile c.txt, 16.09.2021 um 08:47 Uhr.
